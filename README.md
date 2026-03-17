@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/rizakdeep_singh" target="blank"><img src="https://img.shields.io/twitter/follow/rizakdeep_singh?logo=twitter&style=for-the-badge" alt="rizakdeep_singh" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analytics**
+- 🔭 I’m currently working on **FullStack Web Development**
 
-- 🌱 I’m currently learning **Data Analysist**
+- 🌱 I’m currently learning **Mobile Development**
 
 - 👯 I’m looking to collaborate on [RizCrypto](https://github.com/RizakSingh/RizCryco)
 
