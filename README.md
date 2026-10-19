@@ -100,7 +100,11 @@ I'm a **full-stack developer** who enjoys turning ideas into fast, clean, and sc
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizakSingh&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Contribution graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RizakSingh/RizakSingh/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RizakSingh/RizakSingh/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/RizakSingh/RizakSingh/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </p>
 
 ---
